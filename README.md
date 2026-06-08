@@ -51,7 +51,7 @@ I enjoy some competitive programming now and then.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jalanzarini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-andré-lima-lanzarini-28749a279)
 [![Codeforces](https://img.shields.io/badge/Codeforces-jalanzarini-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jalanzarini)
-[![Email](https://img.shields.io/badge/Email-jalanzarini@email.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:joaoandrelanzarini@gmail.com)
+[![Email](https://img.shields.io/badge/Email-joaoandrelanzarini@gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:joaoandrelanzarini@gmail.com)
 
 ---
 
